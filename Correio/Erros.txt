@@ -1,0 +1,3 @@
+O código identity que não pega no ler
+O ler só pesquisa depois que roda o programa dnv
+O update e o delete tem o mesmo erro
